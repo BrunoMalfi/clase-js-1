@@ -133,13 +133,4 @@ console.log('Object Concierto (fecha) |', Concierto.fecha);
 console.log('Object Grupo numero de integrates |',Grupo.integrantes.length);
 Grupo.integrantes.pop();
 console.log('Object Grupo numero de integrates |',Grupo.integrantes.length);
-
-
-
-
-
-
-
-  function myFunction() {
-    document.getElementById("demo").innerHTML = "Paragraph changed.";
-  }
+//Object end -------------------------
